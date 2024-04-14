@@ -2,7 +2,7 @@
 Hi commander, "hello,world"
 
 # Why
-```
+```c
 #include <stdio.h>
 int main(void)
 {
